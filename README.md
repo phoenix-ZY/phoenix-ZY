@@ -5,4 +5,3 @@
 - 🤔 My research interests lie in computer architecture, including CPU architecture and performance modeling  and emerging NPU-GPU architecture design.
 
 **“Love meets no boundary”** 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix-ZY)
